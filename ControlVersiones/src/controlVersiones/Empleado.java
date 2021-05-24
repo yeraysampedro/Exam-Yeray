@@ -1,6 +1,6 @@
 package controlVersiones;
 
-//CONFLICTO CREADO EN LA RAMA MASTER
+//CONFLICTO CREADO EN LA RAMA MASTER CONFLICTO SOLUCIONADO
 
 public class Empleado {
 	/**
