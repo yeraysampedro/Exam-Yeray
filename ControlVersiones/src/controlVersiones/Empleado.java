@@ -4,6 +4,13 @@ package controlVersiones;
 
 public class Empleado {
 	/**
+	 * @author Yeray
+	 * @version Version 1, 2021
+	 * @since 24 de mayo de 2021
+	 */
+	
+	
+	/**
 	 * Este atributo recoge el nombre del empleado guardado en una variable de tipo string
 	 */
 	private String nombre;
@@ -54,8 +61,8 @@ public void setSalario(double salario) {
 
 /**
  * 
- * @param subida recibe un double que ser· lo que se le sumar· al salario y suma al salario que ese empleado tiene, el salario recibido
- * EX: Salario = 100 / Subida = 20 entonces: El nuevo salario ser· 120
+ * @param subida recibe un double que ser√° lo que se le sumar√° al salario y suma al salario que ese empleado tiene, el salario recibido
+ * EX: Salario = 100 / Subida = 20 entonces: El nuevo salario ser√° 120
  */
 public void subirsalario (double subida) {
 	salario=salario+subida;
